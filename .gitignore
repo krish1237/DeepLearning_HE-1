@@ -1,0 +1,12 @@
+#IGNORING DL_BEGINNER
+/DL_BEGINNER/
+data.h5
+X_train.npy
+X_test.npy
+y_train.npy
+#IGNORING VSCODE
+/.vscode/
+/.vs/
+#IGNORING PYTHON CACHE
+/.ipynb_checkpoints/
+/__pycache__/
